@@ -2,7 +2,6 @@
 .country{float: right; clear: both;}
 .contato{text-align: center; padding: inherit}
 .contato h1 {text-align: center;}
-.socialmedia{padding: inherit}
 .socialmedia img {padding: 8%;}
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
