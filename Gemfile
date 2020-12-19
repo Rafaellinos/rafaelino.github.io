@@ -8,7 +8,7 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jekyll-seo-tag"
   gem "jekyll-archives"
-  #gem "jekyll-sitemap"
+  gem "jekyll-sitemap"
 end
 
 group :test do
