@@ -10,16 +10,26 @@ order: 7
 
 ### PERFIL PESSOAL
 
-<p>Sou Desenvolvedor Python há mais de um ano, trabalhando principalmente com <a href="https://github.com/odoo/odoo">Odoo</a>, um framework OpenSource beaseado em Django. Além de ser um framework, também é um sistema monólito ERP totalmente modularizado.</p>
+<p>Sou Desenvolvedor há mais de dois anos, trabalhei com um sistema chamado monólito chamado <a href="https://github.com/odoo/odoo">Odoo</a> e atualmente trabalho com Microsserviços em Python3/flask-restful e Java8/SpringBoot.</p>
 <p>Também possuo conhecimentos sólidos em JavaScript e Jquery, aprendidos no decorrer dos desafios envolvendo o Odoo.</p>
-<p>Atualmente cursando MBA em FullStack e aprendendo Java/SpringBoot e Microserviços.</p>
+<p>Atualmente focado em tirar certificação Java 8.</p>
 
 --------------------
 
 ### HISTÓRICO PROFISSIONAL
 
-* **Desenvolvedor Python Júnior** <br>
-  LLIÈGE | out. de 2019 - Presente
+* **Desenvolvedor Backend** <br>
+  Nova Tendência | abr. de 2021 - Presente
+  - Desenvolvimento e Sustentação de Microsserviços voltados ao mercado financeiro;
+  - API's REST Java 8/Spring boot 2, Python3.9 e Flask;
+  - AWS (CloudWatch, Batch, SQS, DynamoBD etc);
+  - SQL Server e banco NoSQL;
+  - Scrum Framework;
+  - Kibana.
+<br>
+<br>
+* **Desenvolvedor FullStack Júnior** <br>
+  LLIÈGE | out. de 2019 - abr. de 2021
   - Desenvolvedor, modificar e adaptar mpodulos do Odoo 10 ao 13;
   - Criação e consumo de API's REST e integrações;
   - Relatórios em Qweb/XML;
@@ -67,7 +77,7 @@ order: 7
 - [X] Me tornar dev Python
 - [ ] Adiquirir Proficiência em Java
 - [ ] Aprender um Framework JS
-- [ ] Trabalhar com Microserviços
+- [X] Trabalhar com Microserviços
 - [ ] Trabalhar com TDD
 
 <br>
