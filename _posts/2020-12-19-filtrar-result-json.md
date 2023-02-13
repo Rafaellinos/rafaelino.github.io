@@ -74,8 +74,14 @@ version_name = sys.argv[1] # obter o argumento
 data = sys.stdin.read() # ler entrada de dados
 data = json.loads(data) # parse dos dados para objeto python
 
-data = list(filter(lambda x: x['version']['name'] == version_name, data.get('game_indices'))) 
-# Filtrando dados para obter o game index do gyarados na versão gold
+# Usando filter para obter o game index do gyarados na versão gold
+data = list(filter(lambda x: x['version']['name'] == version_name, data.get('game_indices', []))) 
+
+# Usando list comprehension para obter game index do gyarados na versão gold
+data = [
+    d for d in data.get('game_indices', [])
+    if d['version']['name'] == version_name
+]
 
 print(data)
 print(data[0]['game_index'])

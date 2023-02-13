@@ -10,9 +10,8 @@ order: 7
 
 ### PERFIL PESSOAL
 
-<p>Sou Desenvolvedor há mais de dois anos, trabalhei com um sistema chamado monólito chamado <a href="https://github.com/odoo/odoo">Odoo</a> e atualmente trabalho com Microsserviços em Python3/flask-restful e Java8/SpringBoot.</p>
-<p>Também possuo conhecimentos sólidos em JavaScript e Jquery, aprendidos no decorrer dos desafios envolvendo o Odoo.</p>
-<p>Atualmente focado em tirar certificação Java 8.</p>
+<p>Sou Desenvolvedor desde 2019, trabalhei com um sistema chamado monólito chamado <a href="https://github.com/odoo/odoo">Odoo</a> e atualmente trabalho com Microsserviços em Python3/flask-restful e Java8/SpringBoot.</p>
+<p>Também possuo conhecimentos sólidos em JavaScript, Jquery e React, além de Java/Spring boot e Python Flask e FastAPI.</p>
 
 --------------------
 
@@ -50,6 +49,9 @@ order: 7
   
 ### PERFIL ACADÊMICO
 
+* **Arquitetura de Software Distribuído**<br>
+  PUC Minas - Jun.2022 - Jun.2023
+
 * **MBA em Full Stack Developer**<br>
  Impacta - Out.2020 - Out.2021
 
@@ -62,23 +64,26 @@ order: 7
 - *Certificado em Git/Github* - Udemy
 - *Certificado Odoo 101* - Ocademy
 - *Treinamento Técnico em Python/Odoo* - Kmee
-- *Ingles intermediário/Avançado* - CNA Idiomas
+- *Ingles Avançado* - Easy-Peasy
 
 ### HABILIDADE E COMPETÊNCIAS
 
-- Python / JavaScript / Bash Shell Script
-- Odoo / Flask / Django
-- SQL / PL/PGSQL / PostgreSQL / MySQL
+- Python / JavaScript / Java / Bash Shell Script
+- Odoo / Flask / Django / Spring Boot
+- SQL / PL/PGSQL / PostgreSQL / MySQL / DynamoDB
 - Linux / Docker / Git
 - Design Patterns
+- AWS (Lambdas, SQS, SNS, DynamoDB, CloudWatch, Batch, etc)
 
 ### OBJETIVOS A LONGO PRAZO
 
-- [X] Me tornar dev Python
-- [ ] Adiquirir Proficiência em Java
-- [ ] Aprender um Framework JS
-- [X] Trabalhar com Microserviços
 - [ ] Trabalhar com TDD
+- [ ] Promover melhorias em minha squad
+- [ ] Adiquirir Proficiência em Java
+- [X] Aprender um Framework JS
+- [X] Trabalhar com Microserviços
+- [X] Me tornar Dev Python
+
 
 <br>
 <br>
