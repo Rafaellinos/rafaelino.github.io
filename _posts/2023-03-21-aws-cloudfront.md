@@ -44,7 +44,7 @@ No console da AWS, vá até o console da AWS e siga os passos:</p>
 
 <p>Crie um novo certificado no Certificate Manager (ACM)</p>
 
-![step 1](assets/aws_subdomain_passo1.png){:class="img-responsive"}
+![step 1](/assets/img/aws_subdomain_passo1.png){:class="img-responsive"}
 
 
 ##### Passo 2
@@ -54,13 +54,13 @@ Preencha o campo do seu dominio utilizando um wildcard (*).
 Ex: *.seudominio.com.br
 </p>
 
-![step 2](assets/aws_subdomain_passo2.png){:class="img-responsive"}
+![step 2](/assets/img/aws_subdomain_passo2.png){:class="img-responsive"}
 
 ##### Passo 3
 
 <p>Copie o CNAME name e CNAME value para o record type da locaweb</p>
 
-![step 3](assets/aws_subdomain_passo3.png){:class="img-responsive"}
+![step 3](/assets/img/aws_subdomain_passo3.png){:class="img-responsive"}
 
 #### Passo 4
 
@@ -69,7 +69,7 @@ Basta ir no seu painel (https://painel-dns.locaweb.com.br/seudominio.com.br) e a
 </p>
 
 
-![step 4](assets/aws_subdomain_passo4.png){:class="img-responsive"}
+![step 4](/assets/img/aws_subdomain_passo4.png){:class="img-responsive"}
 
 <p>O TTL é o time-to-live, basicamente é o tempo do cache de direcionamento DNS, ou seja,
 o tempo em que o record configurado será valido, caso você troque a configuração do record, precisará
@@ -84,7 +84,7 @@ dig www.google.com.br
 
 resultado:
 
-![dig command detail](assets/aws_subdomain_info.png){:class="img-responsive"}
+![dig command detail](/assets/img/aws_subdomain_info.png){:class="img-responsive"}
 
 #### Passo 5
 
@@ -92,7 +92,7 @@ resultado:
 O cerificado será valido quando os status ficarem nessa situação:
 </p>
 
-![step 5.1](assets/aws_subdomain_passo5.1.png){:class="img-responsive"}
+![step 5.1](/assets/img/aws_subdomain_passo5.1.png){:class="img-responsive"}
 
 <p>Esse processo pode levar algumas horas, portanto, aguarde.</p>
 <p>Após o processo finalizar, é hora de alterar a permissão do nosso s3
@@ -102,7 +102,7 @@ site para permitir acesso ao Origin Access do cloudfront.
 <p>Para criar o Origin Access, vá até o CloudFront pelo AWS console e abra o menu
 Origin Access, e crie um novo registro.</p>
 
-![step 5.2](assets/aws_subdomain_passo5.2.png){:class="img-responsive"}
+![step 5.2](/assets/img/aws_subdomain_passo5.2.png){:class="img-responsive"}
 
 <p>
 Depois de criado, copie o ID que será utilizado no S3 que possui o link com
@@ -140,7 +140,7 @@ seu cloudfront.
 <p>Agora, vá até o seu cloudfront distribution que possuí o link com o s3. 
 Vamos criar um dominio alternativo para a distribuição, alternando as seguintes propriedades:</p>
 
-![step 6](assets/aws_subdomain_passo6.png){:class="img-responsive"}
+![step 6](/assets/img/aws_subdomain_passo6.png){:class="img-responsive"}
 
 <p>O mesmo certificado pode ser utiliza para outros sub-dominios, justamente por conta do wildcard que adicionamos
 no passo 2 (*.seudominio.com.br)</p>
@@ -150,7 +150,7 @@ no passo 2 (*.seudominio.com.br)</p>
 
 <p>No ultimo passo desse processo, vamos adicionar o sub-dominio escolhido na locaweb.</p>
 
-![step 6](assets/aws_subdomain_passo7.png){:class="img-responsive"}
+![step 6](/assets/img/aws_subdomain_passo7.png){:class="img-responsive"}
 
 <p>Após esse passo, o seu sub-dominio deverá ser direcionado para o cloudfront utizando o certificado criado.
 Caso tenho algum problema de acesso, como 403 (forbidden), verifica as permissões do bucket.
