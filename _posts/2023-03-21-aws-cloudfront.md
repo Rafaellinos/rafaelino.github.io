@@ -1,6 +1,6 @@
 ---
-title: Filtrar resultado Json de um output Pipe bash com Python
-author: Rafael Veloso Lino
+title: Como adicionar sub-domínio (cloudfront) na locaweb
+author: Rafael Lino
 categories: [aws]
 tags: [aws, locaweb]
 ---
