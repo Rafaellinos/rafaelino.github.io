@@ -60,6 +60,7 @@ order: 7
 
 ### QUALIFICAÇÕES PROFISSIONAIS
 
+- *AWS Cloud Practitioner Certificate* - AWS
 - *Curso imersivo Python* - Let's Code
 - *Certificado em Git/Github* - Udemy
 - *Certificado Odoo 101* - Ocademy
