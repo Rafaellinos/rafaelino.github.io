@@ -27,14 +27,14 @@ github:
   username: Rafaellinos             # change to your github username
 
 twitter:
-  username: nerociffer            # change to your twitter username
+  username: RafaelLino78516            # change to your twitter username
 
 social:
   name: Rafael Veloso Lino de Souza                  # it will shows as the copyright owner in Footer
   email: rafael.veloso.lino@hotmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/nerociffer      # change to your twitter homepage
+    - https://twitter.com/RafaelLino78516      # change to your twitter homepage
     - https://github.com/Rafaellinos       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
