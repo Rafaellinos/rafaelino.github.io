@@ -1,5 +1,6 @@
 ---
 layout: page
+icon: fas fa-address-card
 title: Currículo
 order: 7
 ---

@@ -11,4 +11,15 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+# Quem sou eu?
+
+<p>Rafael Veloso lino de Souza</p>
+
+![foto_rafael_veloso](../assets/img/personal_photos/minha_foto_2.jpg){:class="img-responsive"}
+
+# Curiosidades
+
+- Apaixonado por tecnologia
+- Games, mangás, animes e séries nas horas vagas
+- Pythonista entusiasta
+- Fã de Linux (Atualmente usa Arch)
