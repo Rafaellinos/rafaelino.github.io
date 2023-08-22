@@ -15,7 +15,7 @@ order: 4
 
 <p>Rafael Veloso lino de Souza</p>
 
-![foto_rafael_veloso](../assets/img/personal_photos/minha_foto_2.jpg){:class="img-responsive"}
+![foto_rafael_veloso](/assets/img/personal_photos/minha_foto_2.jpg){:class="img-responsive"}
 
 # Curiosidades
 
