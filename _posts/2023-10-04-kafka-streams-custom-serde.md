@@ -7,9 +7,6 @@ tags: [kafka, java]
 
 # Como criar um custom serde para Kafka Streams
 
-
-# Como Criar um Serde Personalizado para o Kafka Streams
-
 <p>Se você não está familiarizado, o Kafka Streams é uma biblioteca fornecida pela Apache para interagir com o Kafka usando streams - pequenos pedaços de dados que são entregues ao longo do tempo e em tempo real.</p>
 
 <p>Embora este post não ensine Kafka, aqui está uma breve introdução: no Kafka Streams, você pode construir "topologias", que são essencialmente o fluxo de transformação, processamento e filtragem de dados que você pode realizar usando KStreams e KTables.</p>
