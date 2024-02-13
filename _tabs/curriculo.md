@@ -25,7 +25,7 @@ order: 7
   - Spring Boot 3, Quarkus 3 (Panache/Jakarta, Lombok, JaCoCo, Mockito, etc);
   - Kafka, Kafka streams;
   - Scrum Framework;
-  - Aplicando conceitos de clean code e architecture, design patterns como Strategy, Template Method, Singleton, Factory, Chain of Responsibility, etc.Java 11 a 17; Spring boot; Quarkus 3 (Panache/Jakarta); Kafka; AWS; DDD/Event Storming; Junit/Mockito/JaCoCo; Docker/K8s; Arquitetura de Software; Aplicando conceitos de clean code e architecture, design patterns como Strategy, Template Method, Singleton, Factory, Chain of Responsibility, etc.
+  - Aplicando conceitos de clean code e architecture, design patterns como Strategy, Template Method, Singleton, Factory, Chain of Responsibility, etc.
     <br>
     <br>
 * **Desenvolvedor Backend** <br>
