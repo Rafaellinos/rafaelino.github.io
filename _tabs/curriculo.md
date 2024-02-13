@@ -18,19 +18,29 @@ order: 7
 
 ### HISTÓRICO PROFISSIONAL
 
+* **Desenvolvedor Senior** <br>
+  NTT Data | jul. de 2023 - Presente
+  - Java 11 a 17 (GraalVM & OpenJDK);
+  - AWS (EKS, MSK);
+  - Spring Boot 3, Quarkus 3 (Panache/Jakarta, Lombok, JaCoCo, Mockito, etc);
+  - Kafka, Kafka streams;
+  - Scrum Framework;
+  - Aplicando conceitos de clean code e architecture, design patterns como Strategy, Template Method, Singleton, Factory, Chain of Responsibility, etc.Java 11 a 17; Spring boot; Quarkus 3 (Panache/Jakarta); Kafka; AWS; DDD/Event Storming; Junit/Mockito/JaCoCo; Docker/K8s; Arquitetura de Software; Aplicando conceitos de clean code e architecture, design patterns como Strategy, Template Method, Singleton, Factory, Chain of Responsibility, etc.
+    <br>
+    <br>
 * **Desenvolvedor Backend** <br>
-  Nova Tendência | abr. de 2021 - Presente
+  Nova Tendência | abr. de 2021 - jul. de 2023
   - Desenvolvimento e Sustentação de Microsserviços voltados ao mercado financeiro;
   - API's REST Java 8/Spring boot 2, Python3.9 e Flask;
   - AWS (CloudWatch, Batch, SQS, DynamoBD etc);
   - SQL Server e banco NoSQL;
   - Scrum Framework;
   - Kibana.
-<br>
-<br>
+    <br>
+    <br>
 * **Desenvolvedor FullStack Júnior** <br>
   LLIÈGE | out. de 2019 - abr. de 2021
-  - Desenvolvedor, modificar e adaptar mpodulos do Odoo 10 ao 13;
+  - Desenvolvedor, modificar e adaptar módulos do Odoo 10 ao 13;
   - Criação e consumo de API's REST e integrações;
   - Relatórios em Qweb/XML;
   - Páginas Web com Qweb/JavaScript/Jquery;
@@ -38,30 +48,31 @@ order: 7
   - Python 2.7 ao 3.7;
   - Ferramentas: Docker/Git;
   - Ambiente Linux.
-<br>
-<br>
+    <br>
+    <br>
 * **Analista de Sistemas Pleno** <br>
   Intelligente Soluções | abr. de 2019 - out. de 2019
   - Responsável por desenho de fluxos voltado a automações;
   - Mapeamento de processos e modelagem de dados;
   - Manter contato frequente com equipe de desenvolvimento fora do Brasil;
-  - Implatação de sistema ODOO ERP com módulo BPM jurídico;
+  - Implantação de sistema ODOO ERP com módulo BPM jurídico;
   - Gerenciamento de permissões, criação de views em XML, funções automatizadas etc.
-  
+
 ### PERFIL ACADÊMICO
 
 * **Arquitetura de Software Distribuído**<br>
   PUC Minas - Jun.2022 - Jun.2023
 
 * **MBA em Full Stack Developer**<br>
- Impacta - Out.2020 - Out.2021
+  Impacta - Out.2020 - Out.2021
 
 * **Tecnólogo em Análise e Desenvolvimento de Sistemas**<br>
- Universidade Paulista UNIP - Dez.2018
+  Universidade Paulista UNIP - Dez.2018
 
 ### QUALIFICAÇÕES PROFISSIONAIS
 
 - *AWS Cloud Practitioner Certificate* - AWS
+- *AWS Certified Solutions Architect* - AWS
 - *Curso imersivo Python* - Let's Code
 - *Certificado em Git/Github* - Udemy
 - *Certificado Odoo 101* - Ocademy
@@ -81,9 +92,9 @@ order: 7
 
 - [ ] Trabalhar com TDD
 - [ ] Promover melhorias em minha squad
-- [ ] Adiquirir Proficiência em Java
+- [ ] Adquirir Proficiência em Java
 - [X] Aprender um Framework JS
-- [X] Trabalhar com Microserviços
+- [X] Trabalhar com Microsserviços
 - [X] Me tornar Dev Python
 
 
