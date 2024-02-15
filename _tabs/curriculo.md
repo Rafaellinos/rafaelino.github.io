@@ -11,7 +11,7 @@ order: 7
 
 ### PERFIL PESSOAL
 
-<p>Sou Desenvolvedor desde 2019, trabalhei com um sistema chamado monólito chamado <a href="https://github.com/odoo/odoo">Odoo</a> e atualmente trabalho com Microsserviços em Python3/flask-restful e Java8/SpringBoot.</p>
+<p>Sou Desenvolvedor desde 2019, trabalhei com um sistema monólito chamado <a href="https://github.com/odoo/odoo">Odoo</a> e atualmente trabalho com Microsserviços em Python3/flask-restful e Java8/SpringBoot.</p>
 <p>Também possuo conhecimentos sólidos em JavaScript, Jquery e React, além de Java/Spring boot e Python Flask e FastAPI.</p>
 
 --------------------
