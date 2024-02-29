@@ -1,6 +1,6 @@
 ---
 title: Kafka Streams Custom Serde
-author: Rafael Veloso Lino
+author: Rafael Lino
 categories: [software]
 tags: [kafka, java]
 ---

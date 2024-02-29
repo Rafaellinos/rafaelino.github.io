@@ -19,7 +19,7 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'https://rafaellinos.github.io'
 
-author: Rafael Veloso Lino de Souza                  # change to your full name
+author: Rafael Lino                  # change to your full name
 
 avatar: /assets/img/personal_photos/minha_foto_2.jpg   # support internet resources
 
@@ -30,7 +30,7 @@ twitter:
   username: RafaelLino78516            # change to your twitter username
 
 social:
-  name: Rafael Veloso Lino de Souza                  # it will shows as the copyright owner in Footer
+  name: Rafael Lino                  # it will shows as the copyright owner in Footer
   email: rafael.veloso.lino@hotmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link

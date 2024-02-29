@@ -1,6 +1,6 @@
 ---
 title: Domínio de Negócio como centro da aplicação
-author: Rafael Veloso Lino
+author: Rafael Lino
 categories: [oop]
 tags: [oop]
 ---

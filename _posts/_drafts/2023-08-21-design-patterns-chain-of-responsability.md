@@ -1,6 +1,6 @@
 ---
 title: Design Pattern Chain of Responsability
-author: Rafael Veloso Lino
+author: Rafael Lino
 categories: [oop]
 tags: [oop]
 ---

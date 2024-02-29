@@ -13,9 +13,9 @@ order: 4
 
 # Quem sou eu?
 
-<p>Rafael Veloso lino de Souza</p>
+<p>Rafael Lino</p>
 
-![foto_rafael_veloso](/assets/img/personal_photos/minha_foto_2.jpg){:class="img-responsive"}
+![foto_rafael_lino](/assets/img/personal_photos/minha_foto_2.jpg){:class="img-responsive"}
 
 # Curiosidades
 

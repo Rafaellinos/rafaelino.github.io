@@ -5,13 +5,13 @@ title: Currículo
 order: 7
 ---
 
-## Rafael Veloso Lino de Souza
+## Rafael Lino
 
 ---
 
 ### PERFIL PESSOAL
 
-<p>Sou Desenvolvedor desde 2019, trabalhei com um sistema monólito chamado <a href="https://github.com/odoo/odoo">Odoo</a> e atualmente trabalho com Microsserviços em Python3/flask-restful e Java8/SpringBoot.</p>
+<p>Sou Desenvolvedor desde 2019, trabalhei com um sistema monólito chamado <a href="https://github.com/odoo/odoo">Odoo</a> e atualmente trabalho com Microsserviços com Java 11/SpringBoot.</p>
 <p>Também possuo conhecimentos sólidos em JavaScript, Jquery e React, além de Java/Spring boot e Python Flask e FastAPI.</p>
 
 --------------------
@@ -71,8 +71,8 @@ order: 7
 
 ### QUALIFICAÇÕES PROFISSIONAIS
 
-- *AWS Cloud Practitioner Certificate* - AWS
 - *AWS Certified Solutions Architect* - AWS
+- *AWS Cloud Practitioner Certificate* - AWS
 - *Curso imersivo Python* - Let's Code
 - *Certificado em Git/Github* - Udemy
 - *Certificado Odoo 101* - Ocademy
@@ -91,7 +91,7 @@ order: 7
 ### OBJETIVOS A LONGO PRAZO
 
 - [ ] Trabalhar com TDD
-- [ ] Promover melhorias em minha squad
+- [ ] Promover melhorias em minha squad (__impossível?__)
 - [ ] Adquirir Proficiência em Java
 - [X] Aprender um Framework JS
 - [X] Trabalhar com Microsserviços

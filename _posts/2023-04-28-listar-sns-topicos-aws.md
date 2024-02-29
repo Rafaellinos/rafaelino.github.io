@@ -1,6 +1,6 @@
 ---
 title: Como Listar SNS tópicos na AWS
-author: Rafael Veloso Lino
+author: Rafael Lino
 categories: [AWS, Java]
 tags: [aws, java]
 ---

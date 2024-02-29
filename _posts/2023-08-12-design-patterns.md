@@ -1,6 +1,6 @@
 ---
 title: O que são Design Patterns
-author: Rafael Veloso Lino
+author: Rafael Lino
 categories: [oop, Java, Design Patterns]
 tags: [oop]
 ---

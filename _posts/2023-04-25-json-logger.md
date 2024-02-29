@@ -1,6 +1,6 @@
 ---
 title: Como remover style/cores do json logger
-author: Rafael Veloso Lino
+author: Rafael Lino
 categories: [Python]
 tags: [python]
 ---

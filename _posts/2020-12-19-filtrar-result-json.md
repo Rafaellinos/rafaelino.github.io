@@ -1,6 +1,6 @@
 ---
 title: Filtrar resultado Json de um output Pipe bash com Python
-author: Rafael Veloso Lino
+author: Rafael Lino
 categories: [Python, Linux]
 tags: [python, bash, linux]
 ---

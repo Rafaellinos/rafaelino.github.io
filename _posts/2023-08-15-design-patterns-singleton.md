@@ -1,6 +1,6 @@
 ---
 title: Design Pattern Singleton
-author: Rafael Veloso Lino
+author: Rafael Lino
 categories: [oop, Java, Design Patterns]
 tags: [oop]
 ---

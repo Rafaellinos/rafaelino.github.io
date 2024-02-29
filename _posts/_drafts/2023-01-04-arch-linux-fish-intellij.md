@@ -1,6 +1,6 @@
 ---
 title: Como habilitar o fish shell no intelliJ IDEA no Arch Linux
-author: Rafael Veloso Lino
+author: Rafael Lino
 categories: [Linux]
 tags: [linux]
 ---
