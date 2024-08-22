@@ -18,8 +18,21 @@ order: 7
 
 ### HISTÓRICO PROFISSIONAL
 
+* **Desenvolvedor Pleno** <br>
+  Itaú Unibanco | jul. de 2024 - Presente
+  - AWS (EC2, ECS, SQS, SNS, Lambda, CloudFormation, CloudWatch, Xray, ECR, Secret manager, etc);
+  - Java 8 ao 11;
+  - Docker (Containers);
+  - Ecosistema Spring;
+  - Testes unitários (Junit 5 e mockito);
+  - Kafka + Avro;
+  - Splunk, DataDog;
+  - Arquitetura hexagonal/Clean Arch/Clean Code/DDD;
+  - Srum/Kanbam.
+    <br>
+    <br>
 * **Desenvolvedor Senior** <br>
-  NTT Data | jul. de 2023 - Presente
+  NTT Data | jul. de 2023 - jul. de 2024
   - Java 11 a 17 (GraalVM & OpenJDK);
   - AWS (EKS, MSK);
   - Spring Boot 3, Quarkus 3 (Panache/Jakarta, Lombok, JaCoCo, Mockito, etc);
