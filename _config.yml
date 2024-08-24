@@ -26,19 +26,19 @@ avatar: /assets/img/personal_photos/minha_foto_2.jpg   # support internet resour
 github:
   username: Rafaellinos             # change to your github username
 
-twitter:
-  username: RafaelLino78516            # change to your twitter username
+#twitter:
+#  username: x           # change to your twitter username
 
 social:
   name: Rafael Lino                  # it will shows as the copyright owner in Footer
   email: rafael.veloso.lino@hotmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/RafaelLino78516      # change to your twitter homepage
+#     x      # change to your twitter homepage
     - https://github.com/Rafaellinos       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+#    - https://www.linkedin.com/in/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
