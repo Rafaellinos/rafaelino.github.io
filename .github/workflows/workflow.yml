@@ -30,7 +30,9 @@ jobs:
         run: gem install bundler -v 2.4.22
 
       - name: Install Jekyll and Bundler Dependencies
-        run: bundle install
+        run: |
+          bundle config build.nokogiri --use-system-libraries
+          bundle install 
 
       - name: Build Jekyll site
         run: bundle exec jekyll build
