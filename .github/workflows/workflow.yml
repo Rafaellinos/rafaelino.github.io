@@ -26,10 +26,11 @@ jobs:
         with:
           ruby-version: 2.7
 
-      - name: Install Jekyll and Bundler
-        run: |
-          gem install bundler
-          bundle install
+      - name: Install Bundler
+        run: gem install bundler -v 2.4.22
+
+      - name: Install Jekyll and Bundler Dependencies
+        run: bundle install
 
       - name: Build Jekyll site
         run: bundle exec jekyll build
