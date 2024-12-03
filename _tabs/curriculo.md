@@ -11,22 +11,22 @@ order: 7
 
 ### PERFIL PESSOAL
 
-<p>Sou Desenvolvedor desde 2019, trabalhei com um sistema monólito chamado <a href="https://github.com/odoo/odoo">Odoo</a> e atualmente trabalho com Microsserviços com Java 11/SpringBoot.</p>
+<p>Sou Desenvolvedor desde 2019, antes disso, mantive blogs em HTML/CSS e javascript, desde cedo fascinado pelo munda da tecnologia.</p>
 <p>Também possuo conhecimentos sólidos em JavaScript, Jquery e React, além de Java/Spring boot e Python Flask e FastAPI.</p>
 
 --------------------
 
 ### HISTÓRICO PROFISSIONAL
 
-* **Desenvolvedor Pleno** <br>
+* **Desenvolvedor Java/AWS** <br>
   Itaú Unibanco | jul. de 2024 - Presente
   - AWS (EC2, ECS, SQS, SNS, Lambda, CloudFormation, CloudWatch, Xray, ECR, Secret manager, etc);
-  - Java 8 ao 11;
-  - Docker (Containers);
+  - Java 8 ao 17;
+  - Docker (Containers), Terraform;
   - Ecosistema Spring;
   - Testes unitários (Junit 5 e mockito);
   - Kafka + Avro;
-  - Splunk, DataDog;
+  - Splunk, DataDog, Grafana;
   - Arquitetura hexagonal/Clean Arch/Clean Code/DDD;
   - Srum/Kanbam.
     <br>
@@ -104,8 +104,7 @@ order: 7
 ### OBJETIVOS A LONGO PRAZO
 
 - [ ] Trabalhar com TDD
-- [ ] Promover melhorias em minha squad (__impossível?__)
-- [ ] Adquirir Proficiência em Java
+- [X] Adquirir Proficiência em Java
 - [X] Aprender um Framework JS
 - [X] Trabalhar com Microsserviços
 - [X] Me tornar Dev Python
