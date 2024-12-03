@@ -23,8 +23,10 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '2.5.0'
-      - name: Install jekyll
-        run: gem install jekyll bundler -v 2.4.22
+      - name: Install bundler
+        run: gem install bundler -v 2.4.22
+      - name: Run bundler
+        run: bundle install
       - name: Build site
         run: bundle exec jekyll build
   deploy:
